@@ -1,1 +1,2 @@
-alias c = clear
+alias c = 'clear'
+alias ll = 'ls -la'
