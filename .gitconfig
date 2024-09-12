@@ -2,3 +2,5 @@
 	name = Felix Corbeil
 	email = felixc05@outlook.com
 	username = Filounet
+[core]
+	editor = vim
