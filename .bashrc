@@ -8,8 +8,6 @@ alias bgred='echo -e "\e[41m\e[97m"'
 alias bggreen='echo -e "\e[42m\e[30m"'  
 alias bgreset='echo -e "\e[0m"'
 
-export PATH="$HOME/bin:$PATH"
-
 vimdir(){
   touch "$1" &&
   vim "$1"
@@ -19,3 +17,5 @@ cddir(){
   mkdir "$1" &&
   cd "$1"
 }
+
+export PATH="$HOME/bin:$PATH"
