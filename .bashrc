@@ -1,3 +1,5 @@
+echo "Welcome, $USER!"
+
 alias c = 'clear'
 alias ll = 'ls -la'
-export GREP_OPTIONS='--color=red'
+export grepc ='grep --color=red'
