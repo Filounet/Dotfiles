@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Bonjour cher $USER!"
 
 alias c = 'clear'
